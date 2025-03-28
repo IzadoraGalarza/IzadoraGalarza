@@ -8,14 +8,30 @@
 
 ## 🌐 Socials and Tools:
 <p align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Iza_Galarza)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadoragalarzaalves)  
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/IzadoraGalarza)  
-  [![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?logo=gmail&logoColor=white)](mailto:iza.galarza@example.com)  
-  [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)  
-  [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)  
-  [![Microsoft](https://img.shields.io/badge/Microsoft-%23008CFF.svg?logo=microsoft&logoColor=white)](https://www.microsoft.com/)  
-  [![Logisim](https://img.shields.io/badge/Logisim-%23008CFF.svg?logo=logisim&logoColor=white)](http://www.cburch.com/logisim/)
+  <a href="https://instagram.com/Iza_Galarza" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/izadoragalarzaalves" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/IzadoraGalarza" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:iza.galarza@example.com" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/Gmail-%23D44638.svg?logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VS Code">
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?logo=visualstudio&logoColor=white" alt="Visual Studio">
+  </a>
+  <a href="https://www.microsoft.com/" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/Microsoft-%23008CFF.svg?logo=microsoft&logoColor=white" alt="Microsoft">
+  </a>
+  <a href="http://www.cburch.com/logisim/" target="_blank">
+    <img style="border-radius: 20px;" src="https://img.shields.io/badge/Logisim-%23008CFF.svg?logo=logisim&logoColor=white" alt="Logisim">
+  </a>
 </p>
 
 # 💻 Tech Stack:
