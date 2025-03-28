@@ -5,9 +5,16 @@
 🌍 Languages: Portuguese & Spanish (Fluent), English (Intermediate)  
 🎵 Music | 🎬 Movies | 💻 Programming  
 
-## 🌐 Socials:
+## 🌐 Socials and Tools:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Iza_Galarza)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadoragalarzaalves)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/IzadoraGalarza)  
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?logo=gmail&logoColor=white)](mailto:iza.galarza@example.com)  
+[![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)  
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)  
+[![Microsoft](https://img.shields.io/badge/Microsoft-%23008CFF.svg?logo=microsoft&logoColor=white)](https://www.microsoft.com/)  
+[![Logisim](https://img.shields.io/badge/Logisim-%23008CFF.svg?logo=logisim&logoColor=white)](http://www.cburch.com/logisim/)
+
 
 
 # 💻 Tech Stack:
@@ -21,4 +28,9 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzadoraGalarza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+# 📊 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzadoraGalarza&theme=github-dark&hide_border=false" />
 </p>
