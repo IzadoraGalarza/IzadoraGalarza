@@ -6,7 +6,7 @@
 🌍 Languages: Portuguese & Spanish (Fluent), English (Intermediate)  
 🎵 Music | 🎬 Movies | 💻 Programming  
 
-## 🌐 Socials and Tools:
+# 🌐 Socials and Tools:
 <p align="center">
   <a href="https://instagram.com/Iza_Galarza" target="_blank">
     <img style="border-radius: 20px;" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
