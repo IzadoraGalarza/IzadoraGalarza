@@ -40,11 +40,6 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=IzadoraGalarza&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=IzadoraGalarza&theme=blue_navy&hide_border=false" />
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzadoraGalarza&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
